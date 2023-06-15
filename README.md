@@ -1,5 +1,10 @@
 # Stacja Pogody (Weather station)
 
+TODO 
+1. Dodanie protokołu KISS na porcie RS-TTL
+2. Dodanie wysyłania ramek pogodowych via port RS-TTL
+3. Dodanie funkcjonalności iGate dla danych KISS przesyłanych po porcie RS-TTL z modemu TNC
+
 ## project on ESP8266
 
 * Stacja pogody zrealizowana za pomocą drukarki 3D oraz kilku elementów elektronicznych.
